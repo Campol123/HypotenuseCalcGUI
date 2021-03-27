@@ -11,3 +11,5 @@ Instructions:
  - Press 'NEXT'
  - See hypotenuse
  - Press 'DONE'
+
+An easy way to test this program is to use "https://replit.com/", just copy and paste it in.
