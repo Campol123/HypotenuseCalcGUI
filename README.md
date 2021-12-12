@@ -4,7 +4,7 @@ A Hypotenuse calculator written in python with a GUI
 Requirements: 
  - Python 3
  - Python's Math module
- - PySimpleGUI Python module
+ - PySimpleGUI Python module - 'pip install PySimpleGUI'
 
 Instructions:
  - Enter 'A' and 'B'
