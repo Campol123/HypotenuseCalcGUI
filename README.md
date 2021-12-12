@@ -1,5 +1,5 @@
 # HypotenuseCalcGUI
-A Hypotenuse calculator written in python with a GUI
+A simple Hypotenuse calculator written in python with a GUI (just a test of PySimpleGUI)
 
 Requirements: 
  - Python 3
